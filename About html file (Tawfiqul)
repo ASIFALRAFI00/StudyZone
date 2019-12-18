@@ -1,0 +1,81 @@
+
+<DOCTYPE html>
+    <html>
+        <head> 
+            
+            <link rel="stylesheet" href="css/style.css"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-right {
+  position: absolute;
+  top: 16px;
+  right: 30px;
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+color: brown;
+    text-decoration: none;
+    font-size: 52px;
+    font-weight: bold;
+}
+    
+}
+</style>
+            
+        </head>
+        <body style="background-image: url(photo/photo0.jpg);">
+            <div class="menu_bar">
+                <ul>
+                    <li> <a href="index.html">Home</a></li>
+                    <li> <a href="gallery.html">Gallery</a></li>
+                     
+                    <li> <a href="contact.html">Contact Us</a></li>
+                    <li> <a href="login.html">LogIn</a></li>
+                     <li> <a href="about.html">About </a></li>
+					 
+                    
+                     <li> <a href="join2.html">Maintenance</a></li>
+                </ul>
+            </div>
+            
+            
+            <div class="container">
+  <img src="photo/photo6.jpg" alt="Snow" style="width:100%;">
+  <div class="top-right"></div>
+  <div class="centered">Small Efforts Make Big Change</div>
+</div>
+            
+            <h1 style="color:midnightblue;font-size:40px;font-weight: bolder;">What is Study zone</h1>
+            <p style="color:black;font-size:23px;font-weight: normal;">Study Zone - English medium coaching center in Dhaka.Are you guys thriving to get good results that too without traveling too far from your area? Then what are you waiting for come JOIN Us! Study Zone is one of the most dominant center in Dhaka. Here, we care for each and every student. So that, every student can achieve world-class results in their edexcel (O level/A level) examinations. Our previous results show it. We offer free Trial classes to the students who want to start a new learning experience.Don't judge us just by our results, Come to us and try our Free trial classes. Then decide where we can take your future to. If you are facing a tough time with exams and preparations then give mocks  and improve your grades. Hope you will love us. We are not just only an institution, but a family.
+We proudly call us the coaching in Dhaka!</h1>
+			<img src="photo/photo1.jpg" alt="Snow" style="width:100%;">
+
+<h2 style="color:midnightblue;font-size:34px;font-weight: bolder;">Goals</h2>
+    <p style="color:black;font-size:23px;font-weight: normal;">Hard work | Dedication | Success
+
+Hard work from the students and dedication from the teachers is truly a deadly combination for a greater results.
+
+And with the latest 9-1 specification, it is definitely going to be challenging session ahead.
+
+But with challenges come great aspirations and the endless support from the trained and data driven teachers at Study Zone look forward to making the education great again.
+
+Join Study Zone for Jan/May 2020 session for IGCSE/IAL examinations !! </p>
+    
+   
+ 
+        </body>
+    </html>
